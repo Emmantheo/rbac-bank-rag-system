@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+local_blob_storage/
+oil_gas.db

@@ -91,6 +91,6 @@ fastapi backend
 
 
 
-
+<img width="5168" height="6191" alt="Image" src="https://github.com/user-attachments/assets/a32393f4-8707-40d7-abfb-e34d2d3b412a" />
 
 

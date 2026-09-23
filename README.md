@@ -92,7 +92,5 @@ fastapi backend
 
 
 
-### ARCHITECTURAL DIAGRAM OF THE WORKFLOW
 
-<img width="723" height="774" alt="image" src="https://github.com/user-attachments/assets/af762bc8-b64a-492d-a343-933402f9fe74" />
 
